@@ -1,0 +1,27 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules/
+
+# Environment variables
+.env
+
+# Output folders
+dist/
+coverage/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
